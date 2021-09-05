@@ -1,6 +1,0 @@
-esta es una prueba más
-para asegurar
-
-que mi repositorio local está vinculado
-
-con GitHub

@@ -1,3 +1,0 @@
-Ultima prueba para validar que mi dirección SSH
-
-ya está dada de alta en la consola

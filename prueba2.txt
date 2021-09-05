@@ -1,7 +1,0 @@
-Esta es otra prueba para asegurar
-
-que mi repositorio remoto de GitHub
-
-Está vinculado a mi repositorio Local
-
-de ubuntu
